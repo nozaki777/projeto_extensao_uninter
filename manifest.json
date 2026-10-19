@@ -1,0 +1,16 @@
+{
+  "name": "SGBD System",
+  "short_name": "SGBD",
+  "description": "Sistema de Gestão e Controle Interno",
+  "start_url": "/sgbd/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3c8dbc",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
